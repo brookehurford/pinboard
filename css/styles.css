@@ -1,0 +1,24 @@
+body {
+  background-image: url("../img/cork-board.jpg");
+}
+
+.polaroid {
+  width: 945px;
+  height: 1024px;
+  background-image: url("../img/polaroid.png");
+}
+/*.polaroid {
+  width: 650px;
+  height: 650px;
+  background-image: url("../img/boat.jpg");
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}*/
+.boat {
+  width: 650px;
+  height: 650px;
+  position: absolute;
+  top: 120px;
+  left: 140px;
+}
